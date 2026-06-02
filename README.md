@@ -3,6 +3,18 @@ A React Native app that is designed to help new upcoming class C drivers gain a 
 
 
 
+## How it works:
+
+You write code in VS Code <br>
+        ↓<br>
+Expo CLI reads your code and translates it <br>
+        ↓<br>
+Android Studio's emulator displays the result <br>
+        ↓<br>
+When the app needs data, it asks Flask  <br>
+        ↓<br>
+Flask fetches it from PostgreSQL and sends it back to the app <br>
+
 
 # For Developers (Windows OS)
 
@@ -64,18 +76,6 @@ npx expo start
 6. Voila! You can see the app with the navigation bar and the code you have made.
 
 
-
-## How it works:
-
-You write code in VS Code
-        ↓
-Expo CLI reads your code and translates it
-        ↓
-Android Studio's emulator displays the result
-        ↓
-When the app needs data, it asks Flask
-        ↓
-Flask fetches it from PostgreSQL and sends it back to the app
 
 
 ## Each Tool Explained
