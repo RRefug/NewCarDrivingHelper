@@ -63,15 +63,22 @@ npm install @react-navigation/native @react-navigation/bottom-tabs react-native-
 
 2. You want to push the play button and have it running. Wait for it to finish google and all the other stuff and you will see it ready. No need to open any projects.
 
+
+### Run the app
 3. You then want to go to your powershell terminal that you are currently using:
 
 C:\Users\USERNAME\Desktop\drivewise
 
-4. Then you want to use the command to run the expo:
+4. Then you want to use the command to run the expo app:
 
 npx expo start
 
 5. If your android emulator is currently ready, then you are free to push 'a' to launch the app. There is a ? mark just to view other commands in that terminal for expo.
+
+### Run the Flask API
+cd C:\Users\USERNAME\Desktop\drivewise-api
+.\vnv\Scripts\activate
+python app.py
 
 6. Voila! You can see the app with the navigation bar and the code you have made.
 
