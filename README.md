@@ -1,4 +1,9 @@
 # NewCarDrivingHelper
+<img width="334" height="715" alt="image" src="https://github.com/user-attachments/assets/af8d5235-5400-419e-b72f-06f375919753" />
+<img width="325" height="710" alt="image" src="https://github.com/user-attachments/assets/ba19368b-9795-4da5-aec0-423f836239cb" />
+<img width="334" height="712" alt="image" src="https://github.com/user-attachments/assets/75a2a254-34b8-49ed-a9d2-5e3e0d04203c" />
+
+
 A React Native app that is designed to help new upcoming class C drivers gain a better understanding of the road in California! :D Currently being made with Expo CLI, Flask, Android Studio Emulator, and PostgreSQL! Of course, Claude is being used for the first time here to help aid the development and release of this mobile app.
 
 
