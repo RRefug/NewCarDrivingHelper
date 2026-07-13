@@ -1,10 +1,24 @@
-
-<img width="334" height="715" alt="image" src="https://github.com/user-attachments/assets/af8d5235-5400-419e-b72f-06f375919753" />
-<img width="325" height="710" alt="image" src="https://github.com/user-attachments/assets/ba19368b-9795-4da5-aec0-423f836239cb" />
-<img width="334" height="712" alt="image" src="https://github.com/user-attachments/assets/75a2a254-34b8-49ed-a9d2-5e3e0d04203c" />
-
 # NewCarDrivingHelper
-A React Native app that is designed to help new upcoming class C drivers gain a better understanding of the road in California! :D Currently being made with Expo CLI, Flask, Android Studio Emulator, and PostgreSQL! Of course, Claude is being used for the first time here to help aid the development and release of this mobile app.
+A cross platform mobile application, using React Native, designed to help new upcoming class C drivers gain a better understanding of California roads! <br>
+ <br>
+Currently being made with Expo CLI, Flask, Android Studio Emulator, and PostgreSQL! Of course, Claude is being used for the first time here to help aid the development and release of this mobile app. 
+
+
+<table align="center" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td width="32%" align="center">
+      <video src="https://github.com/user-attachments/assets/c7cbc76e-047f-426e-96e2-967406d33c43" autoplay="true" loop="loop" muted="muted" playsinline width="100%"></video>
+    </td>
+    <td width="32%" align="center">
+      <!-- Replace with your 2nd video link -->
+      <video src="https://github.com/user-attachments/assets/d0963a5b-d7f9-442b-8c22-e6b4446e768f" autoplay="true" loop="loop" muted="muted" playsinline width="100%"></video>
+    </td>
+    <td width="32%" align="center">
+      <!-- Replace with your 3rd video link -->
+      <video src="https://github.com/user-attachments/assets/01dcedce-7ba3-4b17-bbae-ca500b4485e4" autoplay="true" loop="loop" muted="muted" playsinline width="100%"></video>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -124,7 +138,7 @@ It's lighter, faster, and has better extensions for what we're doing.
 
 
 
-
+<br>
 7/13/2026
 Current state: 
 
