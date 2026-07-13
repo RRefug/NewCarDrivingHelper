@@ -113,3 +113,21 @@ Again you're right! And the reason we use VS Code instead of Android Studio's ed
 VS Code has far better JavaScript support
 It handles both your React Native code and your Flask Python code in one place
 It's lighter, faster, and has better extensions for what we're doing.
+
+
+
+
+
+
+
+7/13/2026
+Current state: 
+
+The native code is NOT in plain Expo Go right now because we installed a library to open up our pdf for the driver's handbook.
+
+Meaning, we now need to launch a custom dev client that has react-native-pdf baked in, not with the command called npx expo start, but with:
+
+npx expo run:android
+
+This is now your DEFAULT start the app command every single session going forward. npx expo start is retired for this project. 
+
